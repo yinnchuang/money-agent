@@ -1,0 +1,22 @@
+# 二进制
+bin/
+*.exe
+*.test
+*.out
+
+# 依赖
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 环境变量 & 用户数据
+.env
+data/user_soul.md
+data/portfolio.md
+
+# 系统
+.DS_Store
+Thumbs.db
